@@ -1,0 +1,46 @@
+body {
+	color: red;
+}
+*{
+	font-family: monospace;
+}
+h1{
+	font-size:  50px;
+	color: red;
+}
+/*wernfwoerfnweoifweniof*/
+
+.kwadrat{
+	background-color: dodgerblue;
+	height: 200px;
+	width: 200px;
+	margin: 2px;
+}
+.kółko{
+	background-color: dodgerblue;
+	height: 200px;
+	width: 200px;
+	margin: 2px;
+}
+#jeden{
+	font-size:  150px;
+}
+
+main p {
+	color: black;
+}
+img:hover{
+	border-radius: 50 px%;
+}
+main div {
+	display: inline-block;
+}
+*{
+	height: 1000px
+}
+header {
+	border: 2px solid green;
+	border: 20px dotted green;
+	position:  sticky;
+	top: 0;
+}
